@@ -6,4 +6,4 @@
 
 \#social \#communal
 
-- Participate in interactive presentation from (Oregon Shores)[http://www.oregonshores.org/]
+- Participate in interactive presentation from [Oregon Shores](http://www.oregonshores.org/)
