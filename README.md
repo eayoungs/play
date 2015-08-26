@@ -11,3 +11,9 @@
 - [ ] EnergyRM: America Saves!; Explore w/ R
   - (Revise data frame to include gas as well as electric)
   - (Attempt to plot both variables on the same chart)
+
+\#spiritual, \#mental
+
+- [x] Practice instrument
+  - ~Banjo~
+  - Guitar
