@@ -15,5 +15,5 @@
 \#spiritual, \#mental
 
 - [x] Practice instrument
-  - ~Banjo~
+  - ~~Banjo~~
   - Guitar
