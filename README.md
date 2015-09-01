@@ -16,4 +16,4 @@
 
 - [x] Practice instrument
   - ~~Banjo~~
-  - Guitar
+  - _Guitar_
