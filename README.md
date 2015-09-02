@@ -6,7 +6,7 @@
 
 - [x] Practice instrument
   - ~~Banjo~~
-  - - *Guitar*
+  - *Guitar*
 
   \#mental \#spiritual
 
