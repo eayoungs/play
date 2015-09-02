@@ -6,8 +6,8 @@
 
 - [x] Practice instrument
   - ~~Banjo~~
-  - *Guitar*
-  - 
+  - - *Guitar*
+
   \#mental \#spiritual
 
 - [x] Caffeine: ~2.5 demitasse moka (fresh)
