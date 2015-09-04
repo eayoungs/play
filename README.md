@@ -15,3 +15,7 @@
   - Sun Tsu: 1 chpt.
   - Tao Te Ching: 3 vs
 - [x] Journal entry: ~1 pg.
+
+\#mental
+
+- [ ] Write *Career* plan
