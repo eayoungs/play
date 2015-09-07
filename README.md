@@ -18,4 +18,4 @@
 
 \#mental
 
-- [ ] Write *Career* plan
+- [ ] Write _Career_ plan
