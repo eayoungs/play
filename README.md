@@ -19,3 +19,12 @@
 \#mental
 
 - [ ] Write **Career** plan
+
+\#mental
+
+- Buildingperformance.io: Screwing around w/ iptables
+  - Apply available updates
+  - Restart server
+  - Revise iptables from digitalocean.com to explicitly allow ssh connections from ^H
+  - Check if PostgreSQL *seed-deploy* database is available remotely
+  -> Repeat
