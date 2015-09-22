@@ -18,10 +18,6 @@
 
 \#mental
 
-- [ ] Write **Career** plan
-
-\#mental
-
 - Buildingperformance.io: Screwing around w/ iptables
   - Apply available updates
   - Restart server
