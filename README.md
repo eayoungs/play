@@ -19,7 +19,7 @@
 \#mental
 
 - Buildingperformance.io: Screwing around w/ iptables
-  - **Apply available updates**
+  - **_Apply available updates_**
   - Restart server
   - Revise iptables from digitalocean.com to explicitly allow ssh connections from ^H
   - Check if PostgreSQL *seed-deploy* database is available remotely
