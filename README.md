@@ -11,10 +11,10 @@
   \#mental \#spiritual
 
 - [x] Caffeine: ~2.5 demitasse moka (fresh)
-- [x] Sacred texts
+- [n] Sacred texts
   - Sun Tsu: 1 chpt.
   - Tao Te Ching: 3 vs
-- [x] Journal entry: ~1 pg.
+- [s] Journal entry: ~1 pg.
 
 \#mental
 
