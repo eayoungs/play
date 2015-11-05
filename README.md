@@ -24,3 +24,11 @@
   - Revise iptables from digitalocean.com to explicitly allow ssh connections from ^H
   - Check if PostgreSQL *seed-deploy* database is available remotely
   -> Repeat
+
+\#physical
+
+- Wait for Trimet 75 bus [5 min]
+- Ride Trimet 75 bus to Pool
+- Walk from bus stop through park to Pool: Saw a hawk in the park being chased by Crowes\!
+- Pet the neighbor dog
+- [ ] Bike to ^H
