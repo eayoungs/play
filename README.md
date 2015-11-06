@@ -32,3 +32,5 @@
 - Walk from bus stop through park to Pool: Saw a hawk in the park being chased by Crowes\!
 - Pet the neighbor dog
 - [ ] Bike to ^H
+
+($1,900.85 \!= $1,902.85)
