@@ -31,6 +31,6 @@
 - Ride Trimet 75 bus to Pool
 - Walk from bus stop through park to Pool: Saw a hawk in the park being chased by Crowes\!
 - Pet the neighbor dog
-- [ ] Bike to ^H
+- [ ] **Bike** to ^H
 
 ($1,900.85 \!= $1,902.85)
