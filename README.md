@@ -34,3 +34,5 @@
 - [ ] **Bike** to ^H
 
 ($1,900.85 \!= $1,902.85)
+
+- Walk to cafe: Starbucks :-[
