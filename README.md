@@ -36,3 +36,5 @@
 ($1,900.85 \!= $1,902.85)
 
 - Walk to cafe: Starbucks :-[
+
+- Sign up for newsletter @ (Marin coastal planning)[ http://www.here-now-us.org/]
