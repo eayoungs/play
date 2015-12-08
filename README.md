@@ -37,4 +37,4 @@
 
 - Walk to cafe: Starbucks :-[
 
-- Sign up for newsletter @ (Marin coastal planning)[ http://www.here-now-us.org/]
+- Sign up for newsletter @ [Marin coastal planning](http://www.here-now-us.org/)
