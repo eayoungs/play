@@ -39,4 +39,4 @@
 
 - Sign up for newsletter @ [Marin coastal planning](http://www.here-now-us.org/)
 
-**is this bold or italic\?**
+**is this bold or italic?**
