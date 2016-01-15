@@ -42,4 +42,7 @@
 **is this bold or italic?**
 - [ ] Define annual periods (March)
                              -----
- '*The Big Short*'
+ 
+'*The Big Short*'
+
+[MEETS description](http://www.meetscoalition.org/how-meets-works/)
