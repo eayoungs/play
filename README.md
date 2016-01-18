@@ -46,3 +46,4 @@
 '*The Big Short*'
 
 [MEETS description](http://www.meetscoalition.org/how-meets-works/)
+ \([OpenEnergyMonitor]\)(http://openenergymonitor.org/emon/)
