@@ -47,3 +47,13 @@
 
 [MEETS description](http://www.meetscoalition.org/how-meets-works/)
  \([OpenEnergyMonitor]\)(http://openenergymonitor.org/emon/)
+
+- Develop routines for integrated planning & tracking
+  - Sort Ggl calendar w/ RStudio
+    - Wrestling with for loop: [**1:**length(x) OMG\!\!\!]
+      - Research *factors*
+      - Rsrch: append patterns
+    - [ ] View existing pivot tables; identify key useful attributes of existing report
+  - Create database for storing calendar & financial tx with date-time prim. key
+    - [ ] Identify prim. / foreign key for all *tables*; determine req. for uniqueness & exclusivity
+    - [ ] Implement conversion
