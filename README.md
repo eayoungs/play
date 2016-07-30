@@ -1,4 +1,4 @@
-## Playing around with Markdown
-#  Just checking my markdwon for Github compatability
+#  Playing around with Markdown
+## Just checking my markdwon for Github compatability
 
-- [p] @ #
+- [x] @ #
