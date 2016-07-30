@@ -1,3 +1,4 @@
-#pdxstartups
+## Playing around with Markdown
+#  Just checking my markdwon for Github compatability
 
-- [x] Slack: Review @aaronpk's post on job on #pdxstartups
+- [p] @ #
