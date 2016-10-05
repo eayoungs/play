@@ -2,5 +2,4 @@
 ## Just checking my markdwon for Github compatability
 
 - [x] @ #
-- [ ]
-- [*]
+[ ]
