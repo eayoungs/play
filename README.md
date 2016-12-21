@@ -6,3 +6,6 @@
 - [*] Google Calendar: Revise calendars; Implement new scheme
   - [x] Update _Planning_ calendar through winter (force revisions in March)
   - [x] Rename '_Planning_' calendar
+  
+  - [*] SES::Timing.Is::Learning (OAuth2.0 | Flask | Heroku)
+    - [x] 
