@@ -1,11 +1,11 @@
 #  Playing around with Markdown
 ## Just checking my markdwon for Github compatability
 
-- [x] \(Google: Check how to manually update Android apps\)
+Domain: \#mental
+Category: \#professional
 
-- [*] Google Calendar: Revise calendars; Implement new scheme
-  - [x] Update _Planning_ calendar through winter (force revisions in March)
-  - [x] Rename '_Planning_' calendar
-  
-  - [*] SES::Timing.Is::Learning (OAuth2.0 | Flask | Heroku)
-    - [x] 
+@transit:contra_costa_county;10_bus
+- [*] C4SF: Energy Benchmark
+  - [x] CSS Grid Layout: Mozilla; Tutorial
+   - [x] Slack & Github: Post link to ^ for team and posterity
+    
