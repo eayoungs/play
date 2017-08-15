@@ -6,6 +6,6 @@ Category: \#professional
 
 @transit:contra_costa_county;10_bus
 - C4SF: Energy Benchmark
- - [x] CSS Grid Layout: Mozilla; Tutorial
- - [x] Slack & Github: Post link to ^ for team and posterity
+  - [x] CSS Grid Layout: Mozilla; Tutorial
+  - [x] Slack & Github: Post link to ^ for team and posterity
     
