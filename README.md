@@ -1,7 +1,7 @@
 #  Playing around with Markdown
 ## Just checking my markdwon for Github compatability
 
-Domain: \#mental
+Domain: \#mental\n
 Category: \#professional
 
 
