@@ -3,5 +3,4 @@
 Domain: \#spiritual
 Category: \#health
 
-- [x] \#caffeine Drink: \(1\) cup French press Coffee
-- [x] Sacred texts: Sun Tsu; \(1\) chapter, Tao Te Ching; \(3\) verses
+- [x] Moleskine: Journal; Write ~\(1\) page\(s\)
